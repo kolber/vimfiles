@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/kolber/Sites/_github/icelab/copyeditor'
+let g:netrw_dirhist_2='/Users/kolber/.vim'
+let g:netrw_dirhist_3='/Users/kolber/Sites/_github/icelab/copyeditor'
